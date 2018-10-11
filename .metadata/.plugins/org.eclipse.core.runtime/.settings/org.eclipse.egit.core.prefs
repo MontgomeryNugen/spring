@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\repos\\spring\\HelloWorldSpringWeb\\.git;C\:\\repos\\spring\\hello\\.git;
+GitRepositoriesView.GitDirectories.relative=HelloWorldSpringWeb\\.git;hello\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
